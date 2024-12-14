@@ -12,7 +12,7 @@ agent = DQNAgent(state_shape=env.observation_space.shape, action_size=env.action
 
 # Metrics for logging
 reward_history = deque(maxlen=5)  # Calculate average reward over the last 5 episodes
-episodes = 1000  # Number of training episodes
+episodes = 2000  # Number of training episodes
 steps_per_episode = []
 
 # TensorBoard setup
