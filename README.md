@@ -17,7 +17,7 @@ Efficient lawn coverage with minimized energy usage and revisits.
 Ability to operate autonomously without human intervention.
 Grid-based simulation to test agent behavior in environments with obstacles.
 Performance
-After fine-tuning parameters, the agent achieves efficient lawn coverage within 300–700 steps, making the solution scalable and suitable for residential and commercial applications.
+After fine-tuning parameters, the agent achieves efficient lawn coverage within 300+ steps, making the solution scalable and suitable for residential and commercial applications.
 
 Goal
 To demonstrate how reinforcement learning can automate real-world tasks, enhancing efficiency, cost-effectiveness, and sustainability in lawn maintenance.
