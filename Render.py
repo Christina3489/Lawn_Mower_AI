@@ -66,7 +66,7 @@ if __name__ == "__main__":
     Usage:
         - Update the `model_path` with the path to the saved DQN model.
     """
-    model_path = "lawn_mower_dqn_G15_O10_log_1.h5"  # Replace with the correct model path
+    model_path = "lawn_mower_dqn_G15_O10_Final.h5"  # Replace with the correct model path
     try:
         visualize_model(model_path=model_path, grid_size=15, num_obstacles=10)
     except FileNotFoundError as e:
